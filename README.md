@@ -57,7 +57,7 @@ Raw GEO Data → Preprocessing → Differential Expression → Functional Enrich
 - 11/17 hub genes independently validated with consistent directional expression in 332-patient cohort
 
 ## Repository Structure
-
+```
 ├── scripts/          # R analysis scripts (00-06)
 |
 ├── results/
@@ -66,6 +66,7 @@ Raw GEO Data → Preprocessing → Differential Expression → Functional Enrich
 |
 ├── data/
 │   └── processed/    # Normalized expression objects
+```
 
 ## Requirements
 Run `scripts/00_install_packages.R` before any other script.  
