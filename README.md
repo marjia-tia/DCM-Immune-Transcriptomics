@@ -3,10 +3,6 @@
 ## Overview
 A multi-layer computational analysis of immune and inflammatory gene dysregulation in Dilated Cardiomyopathy (DCM) using publicly available RNA-seq data. This project integrates differential expression, co-expression network analysis, miRNA regulatory network construction, and drug repurposing to identify therapeutic targets.
 
-## Author
-**Marjia Islam Tia**  
-BSc Bioinformatics and Biotechnology, Asian University for Women, Bangladesh
-
 ## Datasets
 | Accession | Description | Role |
 |-----------|-------------|------|
@@ -61,7 +57,7 @@ Raw GEO Data → Preprocessing → Differential Expression → Functional Enrich
 - 11/17 hub genes independently validated with consistent directional expression in 332-patient cohort
 
 ## Repository Structure
-```
+
 ├── scripts/          # R analysis scripts (00-06)
 |
 ├── results/
@@ -70,7 +66,7 @@ Raw GEO Data → Preprocessing → Differential Expression → Functional Enrich
 |
 ├── data/
 │   └── processed/    # Normalized expression objects
-```
+
 ## Requirements
 Run `scripts/00_install_packages.R` before any other script.  
 R version: 4.4.3 | Platform: macOS Apple Silicon (aarch64)
@@ -79,5 +75,5 @@ R version: 4.4.3 | Platform: macOS Apple Silicon (aarch64)
 - GSE116250: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116250
 - GSE141910: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141910
 
-## License
-MIT License
+## Author
+**Marjia Islam Tia**  
