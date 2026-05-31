@@ -57,13 +57,16 @@ Raw GEO Data → Preprocessing → Differential Expression → Functional Enrich
 - miR-34a-5p and let-7 family as upstream regulators of DCM hub gene network
 
 ## Repository Structure
-├── scripts/       # R analysis scripts (00-06)
+```
+├── scripts/          # R analysis scripts (00-06)
+|
 ├── results/
-│   ├── figures/   # All generated plots
-│   └── tables/    # DEG lists, enrichment results, hub genes
+│   ├── figures/      # All generated plots
+│   └── tables/       # DEG lists, enrichment results, hub genes
+|
 ├── data/
-│   └── processed/ # Normalized expression objects
-└── README.md
+│   └── processed/    # Normalized expression objects
+```
 ## Requirements
 Run scripts/00_install_packages.R before any other script.
 R version: 4.4.3
