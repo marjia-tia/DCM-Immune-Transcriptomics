@@ -1,0 +1,7 @@
+gene	drug	regulatory approval	indication	interaction score
+TAOK2	AMG28	Not Approved	""	5.800422062098392
+LCAT	TESTOSTERONE PROPIONATE	Approved	""	2.610189927944276
+LCAT	STREPTOZOCIN	Approved	""	0.4539460744250916
+LCAT	PREDNISOLONE	Approved	corticosteroid,antiinflammatory agent	0.745768550841222
+LCAT	TESTOSTERONE	Approved	for treatment of female sexual dysfunction,hormone replacement	0.5354235749629285
+LCAT	MEDI6012	Not Approved	""	20.88151942355421

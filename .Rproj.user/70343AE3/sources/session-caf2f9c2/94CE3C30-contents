@@ -1,0 +1,27 @@
+INFO [2026-05-30 20:57:07] $x
+INFO [2026-05-30 20:57:07] list(Primary = primary_degs, Validation = validation_degs)
+INFO [2026-05-30 20:57:07] 
+INFO [2026-05-30 20:57:07] $category.names
+INFO [2026-05-30 20:57:07] c("Primary\n(GSE116250)", "Validation\n(GSE141910)")
+INFO [2026-05-30 20:57:07] 
+INFO [2026-05-30 20:57:07] $filename
+INFO [2026-05-30 20:57:07] paste0(dir_figures, "venn_diagram.png")
+INFO [2026-05-30 20:57:07] 
+INFO [2026-05-30 20:57:07] $output
+INFO [2026-05-30 20:57:07] [1] TRUE
+INFO [2026-05-30 20:57:07] 
+INFO [2026-05-30 20:57:07] $fill
+INFO [2026-05-30 20:57:07] c("#3498DB", "#E74C3C")
+INFO [2026-05-30 20:57:07] 
+INFO [2026-05-30 20:57:07] $alpha
+INFO [2026-05-30 20:57:07] [1] 0.5
+INFO [2026-05-30 20:57:07] 
+INFO [2026-05-30 20:57:07] $cex
+INFO [2026-05-30 20:57:07] [1] 1.5
+INFO [2026-05-30 20:57:07] 
+INFO [2026-05-30 20:57:07] $cat.cex
+INFO [2026-05-30 20:57:07] [1] 1.2
+INFO [2026-05-30 20:57:07] 
+INFO [2026-05-30 20:57:07] $main
+INFO [2026-05-30 20:57:07] [1] "DEG Overlap: Primary vs Validation"
+INFO [2026-05-30 20:57:07] 
