@@ -77,4 +77,4 @@ R version: 4.4.3 | Platform: macOS Apple Silicon (aarch64)
 - GSE141910: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141910
 
 ## Author
-**Marjia Islam Tia**  
+Marjia Islam Tia  
