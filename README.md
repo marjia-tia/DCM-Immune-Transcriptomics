@@ -48,13 +48,11 @@ Raw GEO Data → Preprocessing → Differential Expression → Functional Enrich
 - Pathway conservation independently confirmed: leukocyte mediated immunity, lymphocyte cytotoxicity, antigen receptor signaling
 
 ## Key Findings
-- DCM myocardium shows consistent immune cell infiltration and inflammatory cascade activation confirmed across two independent cohorts
-- 200 DEGs identified; 129 upregulated including NAMPT (NF-κB activator) and TRBV5-4 (T-cell infiltration marker)
-- Blue co-expression module (1,733 genes, r=0.86 with DCM) identified as primary disease-associated network
-- PPP2R1A and TAOK2 identified as hub inflammatory kinase regulators connecting stress signaling to cardiac dysfunction
-- LCAT identified as druggable hub gene; MEDI6012 (recombinant LCAT enzyme therapy) as leading repurposing candidate
-- hsa-miR-34a-5p and let-7 family identified as key upstream regulators of DCM hub gene network
-- 11/17 hub genes independently validated with consistent directional expression in 332-patient cohort
+
+- **Immune infiltration confirmed across two cohorts:** NAMPT (NF-κB activator) and TRBV5-4 (T-cell infiltration marker) upregulated in DCM; independently validated via leukocyte and lymphocyte pathway enrichment in 332-patient cohort
+- **Primary disease module identified:** Blue co-expression module (1,733 genes, r=0.86 with DCM, p=3.7×10⁻¹⁶) represents a coordinated transcriptomic response to disease
+- **Druggable hub genes:** PPP2R1A and TAOK2 as inflammatory kinase regulators; LCAT as therapeutic target with MEDI6012 (recombinant LCAT therapy) as leading drug repurposing candidate
+- **Validated:** 11/17 hub genes replicated with consistent upregulation in independent cohort; immune pathway conservation confirmed
 
 ## Repository Structure
 ```
