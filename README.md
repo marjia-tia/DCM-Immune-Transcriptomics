@@ -1,7 +1,8 @@
 # Immune-Inflammatory Transcriptomic Dysregulation in Dilated Cardiomyopathy
 
 ## Overview
-A multi-layer computational analysis of immune and inflammatory gene dysregulation in Dilated Cardiomyopathy (DCM) using publicly available RNA-seq data. This project integrates differential expression, co-expression network analysis, miRNA regulatory network construction, and drug repurposing to identify therapeutic targets.
+A multi-layer computational analysis of immune and inflammatory gene dysregulation in Dilated Cardiomyopathy (DCM) using publicly available RNA-seq data. This project integrates differential expression, co-expression network analysis, miRNA regulatory 
+network construction, and drug repurposing to identify therapeutic targets for translational follow-up.
 
 ## Datasets
 | Accession | Description | Role |
